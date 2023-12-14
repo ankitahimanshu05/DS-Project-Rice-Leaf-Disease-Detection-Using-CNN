@@ -9,3 +9,5 @@ In this Data set, there are 119 jpg images of disease-infected rice leaves. The 
 1. Bacterial Leaf Blight: In this type, the leaves of the rice plant become light green to greyish green, and water-soaked streaks appear on the leaves but later, they form larger yellowish lesions with uneven edges. Further, the leaves become yellow, gradually wilt, and die.
 2. Brown Spot: In this type, numerous big spots appear on the leaves which can kill the whole leaf.
 3. Leaf Smut: In this type, small and slightly raised, angular spots appear on both sides of the leaves. Heavily infected leaves turn yellow. Leaf tips die and turn gray.
+
+Important Note: Data Set was a large file so was not uploaded.
